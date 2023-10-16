@@ -56,7 +56,7 @@ export default function Header() {
           placeholder="Search items, collections, and accounts"
         />
       </div>
-      <div className={style.headerItems}>
+      <div className={style.headerItems + ` hidden md:flex`}>
         <Link href="/collections">
           <div className={style.headerItem}>Collections</div>
         </Link>
@@ -72,12 +72,10 @@ export default function Header() {
           <ConnectWallet 
             theme="dark" 
             hideTestnetFaucet 
-            switchToActiveChain
-            
-            
-            />
+            switchToActiveChain/>
         </div>
       </div>
+      
     </div>
   );
 }
