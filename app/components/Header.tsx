@@ -69,7 +69,13 @@ export default function Header() {
           </Link>
         </div>
         <div className={style.headerItem}>
-          <ConnectWallet theme="dark" hideTestnetFaucet />
+          <ConnectWallet 
+            theme="dark" 
+            hideTestnetFaucet 
+            switchToActiveChain
+            
+            
+            />
         </div>
       </div>
     </div>

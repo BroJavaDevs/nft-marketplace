@@ -7,7 +7,6 @@ export default function Collections() {
 
   return (
     <div>
-      <h1 className='text-5xl'>Collection</h1>
       <CollectionCard />
       
     </div>

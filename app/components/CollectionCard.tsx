@@ -48,34 +48,42 @@ export default function CollectionCard() {
 
   const collections: ICollection[] = [
     {
+      id: 'azuki',
       title: 'Azuki',
       url: '/banner/azuki.jpg'
     },
     {
+      id: 'crypto-punks',
       title: 'Crypto Punks',
       url: '/banner/cryptopunks.jpg'
     },
     {
+      id: 'gutter-cats',
       title: 'Gutter Cats',
       url: '/banner/guttercat.jpg'
     },
     {
+      id: 'kaiju-kingz',
       title: 'Kaiju Kingz',
       url: '/banner/kaijukingz.jpg'
     },
     {
+      id: 'lives-of-asuna',
       title: 'Lives of Asuna',
       url: '/banner/livesofasuna.jpg'
     },
     {
+      id: 'killer-gfs',
       title: 'Killer Gfs',
       url: '/banner/killergfs.jpg'
     },
     {
+      id: 'pudgy-penguins',
       title: 'Pudgy Penguins',
       url: '/banner/pudgypenguins.jpg'
     },
     {
+      id: 'moon-birds',
       title: 'Moon Birds',
       url: '/banner/moonbirds.jpg'
     },
@@ -84,7 +92,7 @@ export default function CollectionCard() {
   return (
     <Slider {...settings} className='m-5'>
       {collections.map((col, i) => (
-        <Link href='' key={i}>
+        <Link href={`/collection/${col.id}`} key={i}>
           <div className='border border-gray-200 rounded-3xl hover:cursor-pointer hover:border-gray-500' >
             <Image className='rounded-t-3xl' src={col.url} alt={col.title} width={1600} height={500} />
             <div className='p-5'>

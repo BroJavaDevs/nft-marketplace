@@ -4,8 +4,10 @@ import {
   metamaskWallet,
   coinbaseWallet,
   walletConnect,
-  localWallet,
-  embeddedWallet
+  trustWallet,
+  bloctoWallet,
+  phantomWallet,
+  safeWallet
 } from "@thirdweb-dev/react";
 import { Sepolia } from '@thirdweb-dev/chains'
 type Props = {
@@ -18,12 +20,15 @@ const ThirdwebProviderLayer = ({ children }: Props) => {
     supportedChains={[Sepolia]} 
     clientId={process.env.THIRDWEB_CLIENT_ID}
     supportedWallets={[
-      metamaskWallet(),
-      coinbaseWallet(),
+      metamaskWallet({ recommended: true }),
+      coinbaseWallet({ recommended: true }),
       walletConnect(),
-      localWallet(),
-      embeddedWallet(),
-    ]}>
+      trustWallet(),
+      bloctoWallet(),
+      phantomWallet(),
+      safeWallet()
+    ]}
+    >
     {children}
   </ThirdwebProvider>
 }
