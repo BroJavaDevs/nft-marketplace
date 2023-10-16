@@ -19,7 +19,6 @@ export default function RootLayout({
           <Header />
           {children}
         </ThirdwebProviderLayer>
-        
       </body>
     </html>
   )

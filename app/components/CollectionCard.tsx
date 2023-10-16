@@ -4,8 +4,8 @@ import Slider, { Settings } from 'react-slick'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import Image from 'next/image'
-import { ICollection } from '../lib/types'
 import Link from 'next/link'
+import { collections } from '../lib/fakeData'
 
 export default function CollectionCard() {
   const settings: Settings = {
@@ -45,49 +45,6 @@ export default function CollectionCard() {
         }
       ]
   };
-
-  const collections: ICollection[] = [
-    {
-      id: 'azuki',
-      title: 'Azuki',
-      url: '/banner/azuki.jpg'
-    },
-    {
-      id: 'crypto-punks',
-      title: 'Crypto Punks',
-      url: '/banner/cryptopunks.jpg'
-    },
-    {
-      id: 'gutter-cats',
-      title: 'Gutter Cats',
-      url: '/banner/guttercat.jpg'
-    },
-    {
-      id: 'kaiju-kingz',
-      title: 'Kaiju Kingz',
-      url: '/banner/kaijukingz.jpg'
-    },
-    {
-      id: 'lives-of-asuna',
-      title: 'Lives of Asuna',
-      url: '/banner/livesofasuna.jpg'
-    },
-    {
-      id: 'killer-gfs',
-      title: 'Killer Gfs',
-      url: '/banner/killergfs.jpg'
-    },
-    {
-      id: 'pudgy-penguins',
-      title: 'Pudgy Penguins',
-      url: '/banner/pudgypenguins.jpg'
-    },
-    {
-      id: 'moon-birds',
-      title: 'Moon Birds',
-      url: '/banner/moonbirds.jpg'
-    },
-  ]
 
   return (
     <Slider {...settings} className='m-5'>
