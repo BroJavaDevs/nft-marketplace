@@ -1,0 +1,283 @@
+[
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #0",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeicw4mfjhniybj2ceynlavjzo6zu2hmndalm6dcllyx55457lzj6s4/Azuki%200.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Off White A" },
+        { "trait_type": "Clothing", "value": "Pink Oversized Kimono" },
+        { "trait_type": "Eyes", "value": "Striking" },
+        { "trait_type": "Hair", "value": "Water" },
+        { "trait_type": "Mouth", "value": "Frown" },
+        { "trait_type": "Off Hand", "value": "Monkey King Staff" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "0",
+      "uri": "ipfs://QmY4eJYBkS2pk7H2KisJKv62cgSb5vDLFQdWuNzwwrRNsr/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #1",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeib7g5yjjkpjqfwpv7w4ccqgu3x66iscr44wl3ousnxeb3j5hr2equ/Azuki1.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Off White D" },
+        { "trait_type": "Clothing", "value": "White Qipao with Fur" },
+        { "trait_type": "Eyes", "value": "Day Dreaming" },
+        { "trait_type": "Hair", "value": "Pink Hairband" },
+        { "trait_type": "Mouth", "value": "Lipstick" },
+        { "trait_type": "Off Hand", "value": "Gloves" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "1",
+      "uri": "ipfs://QmcNgjoMP5i5FKVNTGSnXEPivJT2D8dEezina1xj64bSXw/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #2",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeicx6637wxlnvc5dy43gx3wr5wets4rptl5hvnehrtjhpcqonzqwbe/Azuki2.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Red" },
+        { "trait_type": "Clothing", "value": "Vest" },
+        { "trait_type": "Ear", "value": "Red Tassel" },
+        { "trait_type": "Eyes", "value": "Ruby" },
+        { "trait_type": "Hair", "value": "Pink Flowy" },
+        { "trait_type": "Mouth", "value": "Chewing" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "2",
+      "uri": "ipfs://QmV1jCDTafXZWBFXcm5EiS19rutoHzgVRUY1b4CTrRxtDw/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #3",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeigqgere7defuujze53okrhfki7uynaabpuloy2yjkrry36vlx2q7i/Azuki3.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Red" },
+        { "trait_type": "Clothing", "value": "Green Yukata" },
+        { "trait_type": "Eyes", "value": "Careless" },
+        { "trait_type": "Hair", "value": "Green Spiky" },
+        { "trait_type": "Headgear", "value": "Frog Headband" },
+        { "trait_type": "Mouth", "value": "Grass" },
+        { "trait_type": "Neck", "value": "Frog Headphones" },
+        { "trait_type": "Off Hand", "value": "Katana" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "3",
+      "uri": "ipfs://QmdPod4mhiU6jrbBuW6qcUGesCnftz282KzqM1fBG7HGiV/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #4",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeiasvirpcpp5ybv26eg72aunaduowgxhw2f437wy5kwihvwxgmgwga/Azuki4.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Off White D" },
+        { "trait_type": "Clothing", "value": "White Qipao with Fur" },
+        { "trait_type": "Eyes", "value": "Lightning" },
+        { "trait_type": "Hair", "value": "Brown Deadlocks" },
+        { "trait_type": "Mouth", "value": "Smirk" },
+        { "trait_type": "Off Hand", "value": "Katana" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "4",
+      "uri": "ipfs://QmUo2dMSd3hQbsF64HfcmXcWbUP8jMZnJuzEvLTt1c1qWm/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #5",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeiffurjh3o3ne5hipc55fwxc6zvw65v7haknokvth53rr2evqspecu/Azuki5.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Red" },
+        { "trait_type": "Clothing", "value": "Red Perfecto Jacket" },
+        { "trait_type": "Eyes", "value": "Suspicious" },
+        { "trait_type": "Face", "value": "Red Stripes Face Paint" },
+        { "trait_type": "Hair", "value": "Blonde Swept Back" },
+        { "trait_type": "Mouth", "value": "Chuckle" },
+        { "trait_type": "Off Hand", "value": "Leather Katana" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "5",
+      "uri": "ipfs://QmZbTf6KgWSmDJCsKWwTqZy4gttccDwRn8BjWB2VYJy6wA/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #6",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeifx3czwrhdvlobnueofmggorin65e364a43t3erpfwtlx37tshpmy/Azuki6.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Off White A" },
+        { "trait_type": "Clothing", "value": "Alpine Jacket" },
+        { "trait_type": "Eyes", "value": "Calm" },
+        { "trait_type": "Hair", "value": "Teal Bun" },
+        { "trait_type": "Mouth", "value": "Tongue Out" },
+        { "trait_type": "Off Hand", "value": "Leather Katana" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "6",
+      "uri": "ipfs://QmausCk9vZvaC8mkuCp4NmdzbQP6aCJTU2S5pVYZMKo2hQ/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #7",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeib2r4pohh3kfdnwt3c27qrtxgmou662mak5jkgg2euaxaqaxzndg4/Azuki7.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Off White A" },
+        { "trait_type": "Clothing", "value": "Light Kimono" },
+        { "trait_type": "Eyes", "value": "Suspicious" },
+        { "trait_type": "Hair", "value": "Orange Samurai" },
+        { "trait_type": "Headgear", "value": "Full Bandana" },
+        { "trait_type": "Mouth", "value": "Bubble Gum" },
+        { "trait_type": "Off Hand", "value": "Leather Katana" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "7",
+      "uri": "ipfs://QmeDRZdzQPJphhL9cCrascE1DpLDiRK6zSWMimnUrYgLVX/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #8",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeig4otcpz2jhadgzgaxuauddaemt5sa5tzaxemytbkccwcz4hlfvbi/Azuki8.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Off White B" },
+        { "trait_type": "Clothing", "value": "Hoodie" },
+        { "trait_type": "Eyes", "value": "Relaxed" },
+        { "trait_type": "Face", "value": "Blush" },
+        { "trait_type": "Hair", "value": "Silver Pixie" },
+        { "trait_type": "Mouth", "value": "Grass" },
+        { "trait_type": "Neck", "value": "Choker" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "8",
+      "uri": "ipfs://QmeUQiUG6SFX3iz5LVPqX2yHzd9bF9vFbhVZJP5Evnasn2/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #9",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeigvnzhjyollr4db4vbbrqqhwg2pmylnafqmrmmcjoqbw4sktpzaue/Azuki9.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Off White D" },
+        { "trait_type": "Clothing", "value": "White Yukata" },
+        { "trait_type": "Eyes", "value": "Chill" },
+        { "trait_type": "Hair", "value": "Silver Spiky" },
+        { "trait_type": "Mouth", "value": "Chuckle" },
+        { "trait_type": "Off Hand", "value": "Bat" },
+        { "trait_type": "Type", "value": "Blue" }
+      ],
+      "id": "9",
+      "uri": "ipfs://QmaswJLwE5qeL9YAY5a3E8tUwBMdbpjaNq2fuWFsa7RDsK/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xE28A3B91B02834A8fBe5b1A8FF2587591c5dddea",
+    "metadata": {
+      "name": "Azuki #10",
+      "description": "Created by Alrae, Jeffrey, Patrick, Rigor \nSTI NFT FULLSTACK MARKETPLACE \nSAMPLE NFT",
+      "image": "https://45e69487444edd6aa6839789bcfbe392.ipfscdn.io/ipfs/bafybeiab7w3ldt5yas6nkqkkudo5qbpdaeq3qnurfyowzvvu5xu35lewrq/Azuki10.avif",
+      "external_url": "",
+      "background_color": "",
+      "attributes": [
+        { "trait_type": "Background", "value": "Off White C" },
+        { "trait_type": "Clothing", "value": "Blue Kimono" },
+        { "trait_type": "Eyes", "value": "Closed" },
+        { "trait_type": "Hair", "value": "Green Samurai" },
+        { "trait_type": "Headgear", "value": "Black Bucket Hat" },
+        { "trait_type": "Mouth", "value": "Chuckle" },
+        { "trait_type": "Off Hand", "value": "Sakura Katana" },
+        { "trait_type": "Type", "value": "Human" }
+      ],
+      "id": "10",
+      "uri": "ipfs://QmWueQPnUVoQAUSUewAQNQqBR963UhSQojxTHREc7CyZkY/0",
+      "customImage": "",
+      "customAnimationUrl": ""
+    },
+    "type": "ERC721",
+    "supply": "1"
+  }
+]
