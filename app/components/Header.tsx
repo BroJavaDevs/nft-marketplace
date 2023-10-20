@@ -71,8 +71,9 @@ export default function Header() {
         <div className={style.headerItem}>
           <ConnectWallet 
             theme="dark" 
-            hideTestnetFaucet 
-            switchToActiveChain/>
+            hideTestnetFaucet
+            switchToActiveChain
+            welcomeScreen={() => <></>}/>
         </div>
       </div>
       
